@@ -32,4 +32,5 @@ export type subscriber = {
 } & commonFileds;
 export type user = {
   email: string;
+  darkMoade :string
 } & commonFileds;
